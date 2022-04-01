@@ -1,4 +1,4 @@
-### <p align="center"><img width="150px" height="150px" src="https://raw.githubusercontent.com/dacferreira/docesonhopijamas-app/blob/main/images/docesonhopijamas.jpg?raw=true"></p>
+### <p align="center"><img width="150px" height="150px" src="https://github.com/dacferreira/docesonhopijamas-app/blob/main/images/docesonhopijamas.jpg?raw=true"></p>
 
 # [Doce Sonho Pijamas](https://demopwa.surge.sh)
 
