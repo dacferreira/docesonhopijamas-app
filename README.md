@@ -65,7 +65,14 @@ In browser, open [http://localhost:4200](http://localhost:4200)
 
 #### License
 
-MIT © [Gokulakrishnan](https://github.com/dacferreira)
+MIT © [Diogo Alves](https://github.com/dacferreira)
+
+#### Contributions
+
+- If you wish to contribute to this repository, fork it and send a PR 😬.
+- And, if you like the repo, 🌟 it.
+
+##### MIT Licensed
 
 <div align="center">
   <sub>If you found a bug or some improvments, feel free to raise an issue and send a PR!</sub>
