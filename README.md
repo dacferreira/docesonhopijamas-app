@@ -73,7 +73,3 @@ MIT © [Diogo Alves](https://github.com/dacferreira)
 - And, if you like the repo, 🌟 it.
 
 ##### MIT Licensed
-
-<div align="center">
-  <sub>If you found a bug or some improvments, feel free to raise an issue and send a PR!</sub>
-</div>
