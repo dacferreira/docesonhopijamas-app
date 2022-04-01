@@ -65,8 +65,8 @@ In browser, open [http://localhost:4200](http://localhost:4200)
 
 #### License
 
-MIT © [Gokulakrishnan](https://github.com/gokulkrishh)
+MIT © [Gokulakrishnan](https://github.com/dacferreira)
 
 <div align="center">
-  <sub>Se você encontrou um bug ou algumas melhorias, sinta-se à vontade para levantar o problema e enviar um PR!</sub>
+  <sub>If you found a bug or some improvments, feel free to raise an issue and send a PR!</sub>
 </div>
