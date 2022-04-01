@@ -1,10 +1,10 @@
 ### <p align="center"><img width="150px" height="150px" src="https://github.com/dacferreira/docesonhopijamas-app/blob/main/images/docesonhopijamas.jpg?raw=true"></p>
 
-# [Doce Sonho Pijamas](https://demopwa.surge.sh)
+# [Doce Sonho Pijamas](https://docesonhospijamas.com.br)
 
 *the Project to display and sale of pajamas*
 
-### [Live](https://demopwa.surge.sh)
+### [Live](https://docesonhospijamas.com.br)
 
 ### Installation
 
@@ -37,13 +37,7 @@ In browser, open [http://localhost:4200](http://localhost:4200)
 
 ## Main Features
 
-- [x] - App Shell Architecture
-
-- [x] - Service Worker + [Navigation Preload](https://mattto.github.io/sw/demo/navigation-preload/) ([Origin Trial](https://docs.google.com/forms/d/e/1FAIpQLSfO0_ptFl8r8G0UFhT0xhV17eabG-erUWBDiKSRDTqEZ_9ULQ/viewform?fbzx=-8349956695398695000))
-
 - [x] - Add to Home Screen, Splash Screen, Browser Mode, Notify user if site is updated etc,
-
-- [x] - Offline Support
 
 - [x] - Online/Offline Events
 
@@ -55,13 +49,9 @@ In browser, open [http://localhost:4200](http://localhost:4200)
 
 - [x] - Web Share API
 
-### Get started with PWA Development
+### Get started with Angular
 
-- [Codelabs](https://pwa.tips/codelabs)
-
-### List of Progressive Web Apps
-
-- [PWA Rocks](https://pwa.rocks)
+- [Codelabs](https://angular.io/)
 
 ### References
 
@@ -78,5 +68,5 @@ In browser, open [http://localhost:4200](http://localhost:4200)
 MIT © [Gokulakrishnan](https://github.com/gokulkrishh)
 
 <div align="center">
-  <sub>If you found a bug or some improvments, feel free to raise an issue and send a PR!</sub>
+  <sub>Se você encontrou um bug ou algumas melhorias, sinta-se à vontade para levantar o problema e enviar um PR!</sub>
 </div>
